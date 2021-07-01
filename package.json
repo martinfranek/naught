@@ -1,6 +1,6 @@
 {
-  "name": "naught",
-  "version": "1.6.0",
+  "name": "@martinfranek/naught",
+  "version": "1.7.0",
   "description": "zero downtime deployment for your node.js server",
   "keywords": [
     "deploy",
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewrk/naught"
+    "url": "https://github.com/martinfranek/naught"
   },
-  "author": "Andrew Kelley",
+  "author": "Martin Franek",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.20"
@@ -35,7 +35,7 @@
     "pend": "~1.2.0"
   },
   "bugs": {
-    "url": "https://github.com/andrewrk/naught/issues"
+    "url": "https://github.com/martinfranek/naught/issues"
   },
   "directories": {
     "test": "test"
